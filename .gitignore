@@ -1,0 +1,11 @@
+# Simulation outputs
+output/
+*.dcd
+*.chk
+
+# Python temporary files
+__pycache__/
+*.pyc
+
+# macOS files
+.DS_Store
